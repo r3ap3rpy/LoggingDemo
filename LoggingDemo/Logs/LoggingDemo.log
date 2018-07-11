@@ -1,0 +1,6 @@
+2018-07-11 18:33:33,513 - LoggingDemo.GUI - INFO - Initializing MyFancyGui class! -
+2018-07-11 18:33:33,513 - LoggingDemo.ConfCheck - DEBUG - Initializing Checker class! -
+2018-07-11 18:33:33,514 - LoggingDemo.GUI - DEBUG - I'm doing something! -
+2018-07-11 18:33:33,515 - LoggingDemo.GUI - CRITICAL - Oh no not anymore! -
+2018-07-11 18:33:33,519 - LoggingDemo.ConfCheck - DEBUG - I'm doing something! -
+2018-07-11 18:33:33,520 - LoggingDemo.ConfCheck - ERROR - Oh no not anymore! -
